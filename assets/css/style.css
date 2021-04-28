@@ -364,7 +364,9 @@ button:hover {
     color: #000;
 }
 
-
+.mytext {
+	font-family:volkorn;
+}
 /* Left & Right Post */
 
 .right-image-post {
