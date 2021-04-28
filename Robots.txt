@@ -1,2 +1,2 @@
-user-agent: *
-Sitemap: https://harinderpal-portfolio.netlify.app/sitemap.xml
+user-agent:*
+Sitemap:https://harinderpal-portfolio.netlify.app/sitemap.xml
